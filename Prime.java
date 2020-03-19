@@ -18,7 +18,7 @@ class Prime{
                         }
                 }                
                 if(arr[i])
-                        System.out.println("isPri");
+                        System.out.println("isPr");
 
         }
 }
